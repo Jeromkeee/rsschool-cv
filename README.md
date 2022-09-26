@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Jeromkeee.github.io/rsschool-cv/
