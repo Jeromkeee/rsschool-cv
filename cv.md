@@ -37,3 +37,16 @@ function act(arg) {
       return arr
 }
 ```
+
+## Education
+- SPb SUACE* 2012-2016 Bachelor's degree "Engineering systems in construction"
+- SPb SUACE* 2016-2019 Master's degree "Water and sanitation"
+- RS-School 2021-now
+
+*Saint-Petersburg State University of Architecture and Civil Engineering
+
+---
+
+## Not native languages
+- English B1. Studying by myself.
+- Swedish A2. Attended evening courses and group classes.
